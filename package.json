@@ -1,8 +1,8 @@
 {
-  "name": "flaubert_sup_menu",
+  "name": "Flaubert-Sup",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "author": "Emilie Vigor, Léandre Guégan",
+  "homepage": "",
   "private": true,
   "scripts": {
     "clean": "ionic-app-scripts clean",
@@ -35,5 +35,5 @@
     "@ionic/app-scripts": "3.1.9",
     "typescript": "~2.6.2"
   },
-  "description": "An Ionic project"
+  "description": "Réseau social permettant de faciliter la communication en étude supérieur"
 }
